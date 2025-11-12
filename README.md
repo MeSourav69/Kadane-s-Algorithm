@@ -1,2 +1,2 @@
-# Kadanes-Algorithm
-Find the maximum subarray sum in an Array
+# Kadanes Algorithm
+Find the maximum subarray sum in an Array.
